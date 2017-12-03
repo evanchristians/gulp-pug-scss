@@ -4,6 +4,7 @@ GULP PUG SCSS starter kit for front-end
 
 ## Quick start
 
+- Run `npm i --save gulp-pug-scss` to install kit
 - Run `gulp serve` to preview and watch for changes
 - Run `bower install --save <package>` to install frontend dependencies
 - Run `gulp` to build your webapp for production
