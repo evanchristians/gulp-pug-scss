@@ -4,7 +4,6 @@ node_modules
 bower_components
 test
 tests
-package.json
 karma.conf.json
 Gruntfile.js
 bower.json.travis.yml
