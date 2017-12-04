@@ -12,3 +12,5 @@ bower.json.travis.yml
 .jscsrc
 .editorconfig
 src
+.tmp
+dist
